@@ -1,0 +1,16 @@
+# Local data and generated outputs
+data/
+outputs/
+*.csv
+*.pt
+*.pth
+*.npz
+*_results.zip
+
+# Local environment and temporary files
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
